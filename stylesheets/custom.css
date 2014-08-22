@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+    background-image: url(../pictures/crosses.jpg);
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.h2{
+    color: red;
+}
+
+.index-head{
+    background:-webkit-gradient(radial, 165 0, 0, 309 -161, 511, from(#FFFFFF), to(#000000))
+
+}
+
+.section {
+    background-color: blue;
+}
